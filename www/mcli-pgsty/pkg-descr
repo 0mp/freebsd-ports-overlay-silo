@@ -1,0 +1,2 @@
+Silo object storage client is a replacement for ls, cp, mkdir, diff, and rsync
+commands for filesystems and object storage.
