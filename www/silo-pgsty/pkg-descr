@@ -1,0 +1,3 @@
+Silo is an object storage server. It is a fork of MinIO that keeps
+the full-featured, S3-compatible object store free including WebUI,
+LDAP/OIDC, and distributed mode.
